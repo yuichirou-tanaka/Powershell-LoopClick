@@ -1,0 +1,1 @@
+powershell -windowstyle hidden -NoProfile -ExecutionPolicy Unrestricted .\launch.ps1
